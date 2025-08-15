@@ -1,10 +1,10 @@
 # Prework
 CodepathPrework
-# Prework - *Wanjavwa Nzobokela Prework1*
+# Prework - *Prework App*
 
 Submitted by: **Wanjavwa Nzobokela**
 
-**Wanjavwa Nzobokela Prework1** is an app that...(right now i imagine myself making an app that helps a user manage skincare products routines and etc to reduce consumption and affirm users) [TODO] 
+**Prework App** is an app that...(right now i imagine myself making an app that helps a user manage skincare products routines and etc to reduce consumption and affirm users) [TODO] 
 
 Time spent: **2** hours spent in total
 
